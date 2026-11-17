@@ -1,3 +1,1 @@
-/* Dán link Web App của Google Apps Script vào giữa 2 dấu nháy bên dưới.
-   Để trống = app chạy bản xem thử với dữ liệu giả. */
-window.FCGN_API = "";
+window.FCGN_API = 'https://script.google.com/macros/s/AKfycbwstj_fSk2o7bjcFs2fGGVWXOR5IKNGluIsZTOxv5hJRvU9kGkkxZHyDuAtkdtfRZlxyA/exec';
